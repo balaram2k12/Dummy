@@ -16,7 +16,11 @@
             "outputPath": "dist/angulardirectives",
             "index": "src/index.html",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "main": "sr/balaamjljjlldfgd",
+=======
+            "main": "sr/balaamjljjll",
+>>>>>>> 952c19e371c3a8dbe423c64b31270805e4172965
 =======
             "main": "sr",
 >>>>>>> 9bfc8de802a7b153b6185415f7b984b1c17ec53a
