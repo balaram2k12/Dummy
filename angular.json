@@ -15,7 +15,11 @@
           "options": {
             "outputPath": "dist/angulardirectives",
             "index": "src/index.html",
+<<<<<<< HEAD
+            "main": "sr/balaamjljjll",
+=======
             "main": "sr",
+>>>>>>> 9bfc8de802a7b153b6185415f7b984b1c17ec53a
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "aot": false,
